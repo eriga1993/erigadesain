@@ -91,7 +91,7 @@ ul.navig li a {
     padding-right: 30px;
 }
 ul.navig li a:hover{
-	color:#999;
+	color:#020202;
 }
 ul.navig li a:hover ul.navig li a:after{
 	display: block;
@@ -126,7 +126,7 @@ ul.navig li a {
 	width: 100%;
 	font-weight: 600;
 	display: block;
-	color: #999;
+	color: #020202;
 }
 ul.navig li a:hover{
 	color:#fff;
@@ -138,7 +138,7 @@ span.menu {
 }
 ul.navig {
     margin: 0;
-    z-index: 999;
+    z-index: 020202;
     position: absolute;
     width: 96%;
     text-align: center;
@@ -153,7 +153,7 @@ ul.navig {
 }
 }
 ul.navig li a.active{
-	color:#999;
+	color:#020202;
 }
 .search-bar {
     width: 120%;
@@ -299,7 +299,7 @@ ul.navig li a.active{
 .about-one p{
 	color:#020202;
 	font-size:14px;
-	border-bottom:1px solid #999;
+	border-bottom:1px solid #020202;
 	width:13%;
 	margin:0 auto;
 	font-family: 'Raleway-Regular';
@@ -323,7 +323,7 @@ ul.navig li a.active{
 .about-two p{
 	font-size:14px;
 	font-family: 'Raleway-Regular';
-	color:#999;
+	color:#020202;
 	line-height:1.8em;
 	margin-top:2%;
 }
@@ -331,7 +331,7 @@ ul.navig li a.active{
 	color:#190608;
 }
 .about-two p a:hover{
-	color:#999;
+	color:#020202;
 }
 .about-two ul{
 	padding:0;
@@ -342,7 +342,7 @@ ul.navig li a.active{
 	display:inline-block;
 }
 .about-two ul li p{
-	color:#999;
+	color:#020202;
 	font-size:17px;
 }
 .about-two ul li a span{
@@ -379,9 +379,9 @@ ul.navig li a.active{
 	-ms-border-radius: 5px;
 }
 .abt-left h6 {
-	color: #999;
+	color: #020202;
 	font-size: 13px;
-	border-bottom: 1px solid #999;
+	border-bottom: 1px solid #020202;
 	width: 26%;
 	font-family: 'Raleway-Regular';
 	margin: 6% 0 0 0;
@@ -397,7 +397,7 @@ ul.navig li a.active{
 .abt-left p{
 	font-size: 14px;
 	font-family: 'Raleway-Regular';
-	color: #999;
+	color: #020202;
 	line-height: 1.8em;
 	margin-top: 4%;
 }
@@ -411,7 +411,7 @@ ul.navig li a.active{
 	float: right;
 	font-size: 13px;
 	font-family: 'Raleway-Regular';
-	color: #999;
+	color: #020202;
 	margin-top: 4%;
 }
 .abt-2{
@@ -466,7 +466,7 @@ ul.navig li a.active{
 	-ms-border-radius: 5px;
 }
 .news form input[type="submit"]:hover {
-	background: #999;
+	background: #020202;
 	transition: 0.5s all ease;
 	-webkit-transition: 0.5s all ease;
 	-moz-transition: 0.5s all ease;
@@ -484,7 +484,7 @@ ul.navig li a.active{
 }
 .abt-2 ul li a{
 	font-size:13px;
-	color:#999;
+	color:#020202;
 	font-family: 'Raleway-Regular';
 }
 .abt-2 ul li a:hover{
@@ -501,7 +501,7 @@ ul.navig li a.active{
 }
 .might-top p {
 	font-size: 13px;
-	color: #999;
+	color: #020202;
 	line-height: 1.8em;
 	font-family: 'Raleway-Regular';
 	margin-top: 4%;
@@ -518,9 +518,9 @@ ul.navig li a.active{
 	margin-top:0%;
 }
 .about-btn a{
-	color: #999;
+	color: #020202;
 	padding: 9px 30px;
-	border: 1px solid #999;
+	border: 1px solid #020202;
 	font-size: 13px;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -563,7 +563,7 @@ ul.navig li a.active{
 .abt-one p{
 	font-size:13px;
 	font-family: 'Raleway-Regular';
-	color:#999;
+	color:#020202;
 	line-height:1.8em;
 	margin:3% auto 0;
 	width:80%;
@@ -579,9 +579,9 @@ ul.navig li a.active{
 	margin-top:5%;
 }
 .a-btn a {
-	color: #999;
+	color: #020202;
 	padding: 7px 20px;
-	border: 1px solid #999;
+	border: 1px solid #020202;
 	font-size: 13px;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -601,7 +601,7 @@ ul.navig li a.active{
 }
 .nbs-flexisel-ul {
 	position: relative;
-	width: 9999px;
+	width: 0202029px;
 	margin: 0px;
 	padding: 0px;
 	list-style-type: none;
@@ -682,10 +682,10 @@ ul.navig li a.active{
 }
 .footer-text p{
 	font-size:15px;
-	color:#999;
+	color:#020202;
 }
 .footer-text p a{
-	color:#999;
+	color:#020202;
 }
 .footer-text p a:hover{
 	color:#190608;
@@ -711,11 +711,11 @@ ul.navig li a.active{
 	width: 49%;
 	margin: 0px;
 	font-size: 14px;
-	color: #999;
+	color: #020202;
 	background: none;
 	padding: 15px 10px;
 	outline: none;
-	border: 1px solid #999;
+	border: 1px solid #020202;
 	font-family: 'Lato', sans-serif;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -725,13 +725,13 @@ ul.navig li a.active{
 }
 .contact-right textarea {
 	width: 100%;
-	color: #999;
+	color: #020202;
 	resize: none;
 	background: none;
 	height: 12.7em;
 	padding: 15px;
 	outline: none;
-	border: 1px solid #999;
+	border: 1px solid #020202;
 	margin-top: 1.4%;
 	font-family: 'Lato', sans-serif;
 	border-radius: 5px;
@@ -760,7 +760,7 @@ ul.navig li a.active{
 }
 .submit-btn input[type=submit]:hover,
 .comment-bottom input[type="submit"]:hover{
-	background: #999;
+	background: #020202;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -779,7 +779,7 @@ ul.navig li a.active{
 .contact-left p{
 	font-size: 14px;
 	font-family: 'Raleway-Regular';
-	color: #999;
+	color: #020202;
 	line-height: 1.8em;
 	margin-top: 2%;
 }
@@ -898,7 +898,7 @@ h3.ghj {
 .welcome-bottom p {
 	font-size: 14px;
 	font-family: 'Raleway-Regular';
-	color: #999;
+	color: #020202;
 	line-height: 1.8em;
 	margin: 1% auto;
 	width: 85%;
@@ -938,7 +938,7 @@ h3.ghj {
 .team-left p{
 	font-size: 14px;
 	font-family: 'Raleway-Regular';
-	color: #999;
+	color: #020202;
 	line-height: 1.8em;
 	margin-top: 2%;
 }
@@ -959,7 +959,7 @@ h3.ghj {
 .single-grid p {
 	font-size: 14px;
     font-family: 'Raleway-Regular';
-    color: #999;
+    color: #020202;
     line-height: 1.8em;
     margin-top: 1.5%;
 }
@@ -975,7 +975,7 @@ i.glyphicon{
 ul.blog-ic li  span{
 	font-size: 14px;
     font-family: 'Raleway-Regular';
-    color: #999;
+    color: #020202;
 }
 ul.blog-ic li a:hover{
 	color:#190608;
@@ -1007,12 +1007,12 @@ h4.media-heading {
 .comment-bottom input[type="text"],.comment-bottom textarea{
 	width: 100%;
 	margin-bottom: 10px;
-    color: #999;
+    color: #020202;
 	font-size: 14px;
     background: none;
     padding: 15px 10px;
     outline: none;
-    border: 1px solid #999;
+    border: 1px solid #020202;
     font-family: 'Lato', sans-serif;
     border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -1368,7 +1368,7 @@ ul.navig li a {
     margin-top: 3%;
 }
 .a-btn a {
-    color: #999;
+    color: #020202;
     padding: 6px 18px;
 }
 .abt-2 {
