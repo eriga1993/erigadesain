@@ -50,6 +50,10 @@ body a:hover{
 .logo a {
 	display: block;
 }
+.wa-post-content img {
+    max-width:100%;
+    height:auto;
+}
 .logo h1 a{
 	font-size: 1.1em;
 	font-weight: 700;
