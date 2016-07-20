@@ -242,7 +242,7 @@ ul.navig li a.active{
 	position:relative;
 }
 .banner-text {
-	position: absolute;
+	position: absolute;bou
 	top: 42%;
 	left: 33%;
 	width: 30%;
@@ -298,7 +298,7 @@ ul.navig li a.active{
 }
 .about-one p{
 	color:#020202;
-	font-size:14px;
+	font-size:50px;
 	border-bottom:1px solid #020202;
 	width:13%;
 	margin:0 auto;
