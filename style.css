@@ -47,6 +47,20 @@ body a:hover{
 .header-right {
 	float: right;
 }
+ul.share-buttons{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-top:5px;
+}
+ 
+ul.share-buttons li{
+    display: inline;
+    margin-right: 5px;
+}
+
 .logo a {
 	display: block;
 }
