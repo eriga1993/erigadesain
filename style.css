@@ -247,9 +247,9 @@ ul.navig li a.active{
 }
 .banner-text {
 	position: absolute;bou
-	top: 42%;
-	left: 33%;
-	width: 30%;
+	top:  auto;
+	left: auto;
+	width: auto;
 	padding: 2em 0px;
 	text-align: center;
 	background: rgba(255, 255, 255, 0.76);
