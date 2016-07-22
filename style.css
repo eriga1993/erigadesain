@@ -102,7 +102,7 @@ ul.navig li a:hover ul.navig li a:after{
 }
 @media (max-width: 768px){
 span.menu:before {
-	content: url(../images/nav-icon.png);
+	content: url(http://img01.wagomu.id/usr/e/r/i/eriga/nav-icon.png);
 	cursor: pointer;	
 	height:32px;
 }
@@ -651,11 +651,11 @@ ul.navig li a.active{
 }
 .nbs-flexisel-nav-left {
 	left:-3em;
-	background: url(../images/left.png) no-repeat 1px 1px ;
+	background: url(http://img01.wagomu.id/usr/e/r/i/eriga/left.png) no-repeat 1px 1px ;
 }
 .nbs-flexisel-nav-right {
 	right:-3em;
-	background: url(../images/right.png) no-repeat 1px 1px ;
+	background: url(http://img01.wagomu.id/usr/e/r/i/eriga/right.png) no-repeat 1px 1px ;
 }
 .banner-1 {
 	margin: 0em 0.5em;
