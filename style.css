@@ -256,12 +256,8 @@ ul.navig li a.active{
 }
 .banner-text h2 {
 	font-size: 15px;
-	border-bottom: 1px solid #190608;
-	color: #190608;
-	padding-bottom: 2px;
-	width:auto%;
-	margin: 0 auto;
-	font-family: 'RobotoSlab-Regular';
+	margin:20px 0 0 0;
+	color:#190608;
 }
 .banner-text h1{
 	font-size:1.5em;
