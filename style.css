@@ -102,7 +102,7 @@ ul.navig li a:hover ul.navig li a:after{
 }
 @media (max-width: 768px){
 span.menu:before {
-	content: url("http://img01.wagomu.id/usr/e/r/i/eriga/nav-icon.png");
+	content: url(http://img01.wagomu.id/usr/e/r/i/eriga/nav-icon.png);
 	cursor: pointer;	
 	height:32px;
 }
@@ -201,7 +201,7 @@ ul.navig li a.active{
     margin: 0 3px;
 }
 .header-right ul li a span {
-    background: url(../images/social.png) no-repeat;
+    background: url(http://img01.wagomu.id/usr/e/r/i/eriga/social.png) no-repeat;
     width: 16px;
     height: 16px;
     display: block;
