@@ -146,6 +146,7 @@ ul.share-buttons li{
 .logo a {
 	display: block;
 }
+.bersih { clear:both;}
 .keterangan{margin:0 auto; width:auto; height:auto;}
 .simbol{width:auto; float:left; line-height:120px;}
 .simbol h1{ font-size:32px; color:#d13f31; font-weight:normal;}
